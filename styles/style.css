@@ -58,7 +58,7 @@
   width: 765px;
   z-index: 1;
   align-self: flex-end;
-  right: 0px;  
+  right: 0px;
   bottom: 0px;
 }
 
@@ -99,7 +99,7 @@
   min-width: 784px;
   display: inline-block;
   vertical-align: top;
-  font-size: 30px
+  font-size: 30px;
 }
 
 .two-columns__paragraph {
@@ -206,7 +206,7 @@
   margin-left: 0;
   margin-right: 0;
   z-index: 1;
-  text-align: center; 
+  text-align: center;
   color: #000000;
 }
 
@@ -292,7 +292,7 @@ margin-bottom: 0px;
 }
 
 .kaufman__triangle {
-  position: absolute; 
+  position: absolute;
   right: -210px;
   top: -5px;
   width: 877px;
