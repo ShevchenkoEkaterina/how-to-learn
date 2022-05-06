@@ -7,7 +7,3 @@
     right: 0px;
     bottom: 0px;
   }
-  
-  .header__square-pic:hover {
-    animation: rotation infinite 20s;
-  }

@@ -9,7 +9,3 @@
     width: 877px;
     height: 877px;
   }
-  
-  .kaufman__triangle:hover {
-    animation: rotation infinite 20s;
-  }
